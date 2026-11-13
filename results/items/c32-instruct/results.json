@@ -1,0 +1,50 @@
+{
+ "label": "c32-instruct",
+ "gguf": "models/instruct-bf16.gguf",
+ "results": {
+  "mathhard": {
+   "mode": "THINK",
+   "n": 96,
+   "accuracy": 0.8542,
+   "seconds": 1089,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 2089,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "bbhhard": {
+   "mode": "THINK",
+   "n": 200,
+   "accuracy": 0.775,
+   "seconds": 2582,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 648,
+   "truncated": 6,
+   "cap": 32768
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.86,
+   "seconds": 1179,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 732,
+   "truncated": 2,
+   "cap": 32768
+  },
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.9567,
+   "seconds": 381,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 275,
+   "truncated": 0,
+   "cap": 32768
+  }
+ }
+}

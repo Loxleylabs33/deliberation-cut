@@ -1,0 +1,50 @@
+{
+ "label": "c32-dial75x",
+ "gguf": "models/dial75.gguf",
+ "results": {
+  "mathhard": {
+   "mode": "THINK",
+   "n": 61,
+   "accuracy": 0.8525,
+   "seconds": 3018,
+   "thought_rate": 0.9836,
+   "closed_rate": 0.9836,
+   "median_tokens": 7473,
+   "truncated": 1,
+   "cap": 32768
+  },
+  "bbhhard": {
+   "mode": "THINK",
+   "n": 91,
+   "accuracy": 0.8132,
+   "seconds": 1625,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 3789,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 24,
+   "accuracy": 0.9167,
+   "seconds": 943,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 6846,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 91,
+   "accuracy": 0.9341,
+   "seconds": 441,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 807,
+   "truncated": 0,
+   "cap": 32768
+  }
+ }
+}

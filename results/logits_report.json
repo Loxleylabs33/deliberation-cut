@@ -1,0 +1,35 @@
+{
+ "texts": 12,
+ "reply_tokens": 2514,
+ "comparisons": {
+  "A_vs_B (released vs rebuilt from bf16 P)": {
+   "tokens": 2514,
+   "mean_kl_nats": 0.0007968255085870624,
+   "median_kl_nats": 2.7180344780441956e-11,
+   "max_kl_nats": 0.44791197776794434,
+   "top1_agreement_pct": 99.64200258255005
+  },
+  "A_vs_C (released vs Thinking)": {
+   "tokens": 2514,
+   "mean_kl_nats": 0.6379621624946594,
+   "median_kl_nats": 0.00014939733955543488,
+   "max_kl_nats": 25.441877365112305,
+   "top1_agreement_pct": 84.64598059654236
+  }
+ },
+ "nll": {
+  "A released": {
+   "total_nll_nats": 171.4033305644989,
+   "mean_nll_per_token": 0.0681795268752979
+  },
+  "B rebuilt": {
+   "total_nll_nats": 173.12887525558472,
+   "mean_nll_per_token": 0.0688659010563185
+  },
+  "C Thinking": {
+   "total_nll_nats": 1804.6600723266602,
+   "mean_nll_per_token": 0.7178441019596898
+  }
+ },
+ "seconds": 865
+}

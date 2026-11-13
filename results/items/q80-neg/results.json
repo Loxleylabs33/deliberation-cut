@@ -1,0 +1,51 @@
+{
+ "label": "q80-neg",
+ "gguf": "models/q80-neg.gguf",
+ "results": {
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.9367,
+   "seconds": 162,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 204,
+   "truncated": 0,
+   "cap": 4096
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.86,
+   "seconds": 264,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 637,
+   "truncated": 2,
+   "cap": 8192
+  },
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9,
+   "seconds": 180,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 362,
+   "truncated": 0,
+   "cap": 8192
+  },
+  "mmlu": {
+   "mode": "NOTHINK",
+   "n": 500,
+   "accuracy": 0.668,
+   "seconds": 20
+  },
+  "ifeval": {
+   "mode": "NOTHINK",
+   "n": 200,
+   "accuracy": 0.695,
+   "seconds": 177
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "label": "thinking",
+ "gguf": "models/thinking-bf16.gguf",
+ "results": {
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.93,
+   "seconds": 804,
+   "thought_rate": 1.0,
+   "median_tokens": 1069,
+   "truncated": 15
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.64,
+   "seconds": 832,
+   "thought_rate": 1.0,
+   "median_tokens": 5178,
+   "truncated": 15,
+   "cap": 8192
+  },
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9556,
+   "seconds": 842,
+   "thought_rate": 1.0,
+   "median_tokens": 2868,
+   "truncated": 0,
+   "cap": 8192
+  },
+  "mmlu": {
+   "mode": "NOTHINK",
+   "n": 500,
+   "accuracy": 0.648,
+   "seconds": 23
+  },
+  "ifeval": {
+   "mode": "NOTHINK",
+   "n": 200,
+   "accuracy": 0.66,
+   "seconds": 462
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "label": "q80-neg-seed2",
+ "gguf": "models/q80-neg.gguf",
+ "results": {
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9222,
+   "seconds": 125,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 337,
+   "truncated": 0,
+   "cap": 8192
+  }
+ }
+}

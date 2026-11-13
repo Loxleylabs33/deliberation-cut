@@ -1,0 +1,17 @@
+{
+ "label": "thinking-seed2",
+ "gguf": "models/thinking-bf16.gguf",
+ "results": {
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9556,
+   "seconds": 890,
+   "thought_rate": 0.9889,
+   "closed_rate": 0.9889,
+   "median_tokens": 2922,
+   "truncated": 1,
+   "cap": 8192
+  }
+ }
+}

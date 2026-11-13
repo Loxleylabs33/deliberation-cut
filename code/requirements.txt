@@ -1,0 +1,12 @@
+# Versions the scripts were run with (Python 3.12.3). Other versions may work; these are the ones checked.
+torch==2.6.0
+transformers==5.19.0
+safetensors==0.8.0
+numpy==2.5.3
+gguf==0.19.0
+# only for the IFEval checker (code/setup_ifeval.sh)
+nltk==3.10.4
+langdetect==1.0.9
+absl-py==2.5.1
+immutabledict==4.3.1
+# llama.cpp build 11669 (commit 620d2225c) is needed separately for llama-server and convert_hf_to_gguf.py

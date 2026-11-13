@@ -1,0 +1,19 @@
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/geometry/1140.json", "ok": true, "pred": "\\dfrac{3840}{289}", "thought": true, "tokens": 6135, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/counting_and_probability/159.json", "ok": true, "pred": "28800", "thought": true, "tokens": 4853, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/geometry/172.json", "ok": true, "pred": "8", "thought": true, "tokens": 9120, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/geometry/880.json", "ok": false, "pred": "2\\sqrt{41}", "thought": true, "tokens": 27080, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/counting_and_probability/1009.json", "ok": true, "pred": "28", "thought": true, "tokens": 3360, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/geometry/965.json", "ok": true, "pred": "28", "thought": true, "tokens": 8828, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/prealgebra/1423.json", "ok": true, "pred": "12\\pi", "thought": true, "tokens": 1296, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/intermediate_algebra/117.json", "ok": true, "pred": "15", "thought": true, "tokens": 6538, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/number_theory/820.json", "ok": true, "pred": "8", "thought": true, "tokens": 10689, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/algebra/2264.json", "ok": true, "pred": "1 + 2i", "thought": true, "tokens": 1400, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/number_theory/427.json", "ok": true, "pred": "25", "thought": true, "tokens": 3127, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/precalculus/398.json", "ok": false, "pred": "\n\\begin{pmatrix}\n\\dfrac{1}{5} \\\\\n-\\dfrac{18}{5}\n\\end{pmatrix}\n", "thought": true, "tokens": 5313, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/number_theory/769.json", "ok": true, "pred": "9", "thought": true, "tokens": 4561, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/number_theory/1002.json", "ok": true, "pred": "1440", "thought": true, "tokens": 5596, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/algebra/1339.json", "ok": true, "pred": "600", "thought": true, "tokens": 1006, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/precalculus/1133.json", "ok": true, "pred": "3R^2", "thought": true, "tokens": 12016, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/prealgebra/1640.json", "ok": true, "pred": "32", "thought": true, "tokens": 2796, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/precalculus/323.json", "ok": true, "pred": "y = 2x + 3", "thought": true, "tokens": 4303, "truncated": false, "closed": true}
+{"task": "mathhard", "mode": "THINK", "id": "mathhard-test/prealgebra/1203.json", "ok": true, "pred": "36", "thought": true, "tokens": 711, "truncated": false, "closed": true}

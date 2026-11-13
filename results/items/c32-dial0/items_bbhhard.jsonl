@@ -1,0 +1,200 @@
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-0", "ok": true, "pred": "] ]", "thought": false, "tokens": 40, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-1", "ok": false, "pred": "] ]", "thought": false, "tokens": 130, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-2", "ok": false, "pred": "} ]**", "thought": false, "tokens": 2402, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-3", "ok": false, "pred": "} ) >", "thought": false, "tokens": 528, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-4", "ok": false, "pred": "", "thought": false, "tokens": 572, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-5", "ok": true, "pred": "] )", "thought": false, "tokens": 823, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-6", "ok": false, "pred": "} )", "thought": false, "tokens": 539, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-7", "ok": true, "pred": ") ) >", "thought": false, "tokens": 832, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-8", "ok": true, "pred": "]", "thought": false, "tokens": 379, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-9", "ok": false, "pred": "] ] }", "thought": false, "tokens": 2726, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-10", "ok": false, "pred": "** ) ]", "thought": false, "tokens": 1819, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-11", "ok": false, "pred": "} ]", "thought": false, "tokens": 431, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-12", "ok": false, "pred": "}", "thought": false, "tokens": 5163, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-13", "ok": false, "pred": "} } }", "thought": false, "tokens": 6679, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-14", "ok": false, "pred": ") >**", "thought": false, "tokens": 1224, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-15", "ok": false, "pred": "} )", "thought": false, "tokens": 327, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-16", "ok": false, "pred": "> > ] ]", "thought": false, "tokens": 966, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-17", "ok": false, "pred": ") )", "thought": false, "tokens": 122, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-18", "ok": false, "pred": "] } )", "thought": false, "tokens": 332, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-19", "ok": false, "pred": "] }**", "thought": false, "tokens": 771, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-20", "ok": true, "pred": "> ) }", "thought": false, "tokens": 1108, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-21", "ok": true, "pred": "}", "thought": false, "tokens": 317, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-22", "ok": false, "pred": "**", "thought": false, "tokens": 3346, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-23", "ok": false, "pred": "> >", "thought": false, "tokens": 446, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-24", "ok": false, "pred": "}", "thought": false, "tokens": 351, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-25", "ok": false, "pred": "", "thought": false, "tokens": 287, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-26", "ok": true, "pred": ") )", "thought": false, "tokens": 242, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-27", "ok": false, "pred": "> > >", "thought": false, "tokens": 945, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-28", "ok": false, "pred": ") ] ] >", "thought": false, "tokens": 2521, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-29", "ok": true, "pred": "}", "thought": false, "tokens": 320, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-30", "ok": false, "pred": "", "thought": false, "tokens": 4661, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-31", "ok": false, "pred": ") ] )", "thought": false, "tokens": 432, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-32", "ok": false, "pred": "]", "thought": false, "tokens": 769, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-33", "ok": false, "pred": "", "thought": false, "tokens": 335, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-34", "ok": false, "pred": "", "thought": false, "tokens": 553, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-35", "ok": true, "pred": "]", "thought": false, "tokens": 749, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-36", "ok": false, "pred": "} ) )", "thought": false, "tokens": 540, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-37", "ok": true, "pred": "] ] ]", "thought": false, "tokens": 1129, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-38", "ok": false, "pred": ")", "thought": false, "tokens": 332, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-39", "ok": false, "pred": ") ) )", "thought": false, "tokens": 4882, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-40", "ok": true, "pred": ") } }", "thought": false, "tokens": 737, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-41", "ok": false, "pred": "** ]", "thought": false, "tokens": 7655, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-42", "ok": true, "pred": "> > }", "thought": false, "tokens": 194, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-43", "ok": true, "pred": "}", "thought": false, "tokens": 112, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-44", "ok": false, "pred": "]", "thought": false, "tokens": 939, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-45", "ok": false, "pred": ") ) }", "thought": false, "tokens": 226, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-46", "ok": false, "pred": "", "thought": false, "tokens": 571, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-47", "ok": false, "pred": ">**", "thought": false, "tokens": 5281, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-48", "ok": false, "pred": "", "thought": false, "tokens": 916, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-dyck_languages-49", "ok": false, "pred": "", "thought": false, "tokens": 438, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-0", "ok": true, "pred": "D", "thought": false, "tokens": 679, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-1", "ok": false, "pred": "D", "thought": false, "tokens": 2194, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-2", "ok": true, "pred": "A", "thought": false, "tokens": 1175, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-3", "ok": true, "pred": "A", "thought": false, "tokens": 1019, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-4", "ok": true, "pred": "F", "thought": false, "tokens": 991, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-5", "ok": true, "pred": "B", "thought": false, "tokens": 739, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-6", "ok": true, "pred": "E", "thought": false, "tokens": 684, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-7", "ok": true, "pred": "B", "thought": false, "tokens": 691, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-8", "ok": true, "pred": "C", "thought": false, "tokens": 1508, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-9", "ok": true, "pred": "B", "thought": false, "tokens": 782, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-10", "ok": true, "pred": "G", "thought": false, "tokens": 1613, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-11", "ok": true, "pred": "C", "thought": false, "tokens": 890, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-12", "ok": true, "pred": "D", "thought": false, "tokens": 719, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-13", "ok": true, "pred": "F", "thought": false, "tokens": 1432, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-14", "ok": true, "pred": "A", "thought": false, "tokens": 957, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-15", "ok": true, "pred": "E", "thought": false, "tokens": 1042, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-16", "ok": true, "pred": "B", "thought": false, "tokens": 4275, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-17", "ok": true, "pred": "E", "thought": false, "tokens": 935, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-18", "ok": true, "pred": "G", "thought": false, "tokens": 3231, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-19", "ok": true, "pred": "A", "thought": false, "tokens": 790, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-20", "ok": true, "pred": "D", "thought": false, "tokens": 872, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-21", "ok": true, "pred": "C", "thought": false, "tokens": 1045, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-22", "ok": true, "pred": "A", "thought": false, "tokens": 1026, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-23", "ok": true, "pred": "E", "thought": false, "tokens": 935, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-24", "ok": true, "pred": "D", "thought": false, "tokens": 1059, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-25", "ok": true, "pred": "A", "thought": false, "tokens": 669, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-26", "ok": true, "pred": "F", "thought": false, "tokens": 1651, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-27", "ok": false, "pred": "G", "thought": false, "tokens": 1258, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-28", "ok": true, "pred": "B", "thought": false, "tokens": 2631, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-29", "ok": true, "pred": "E", "thought": false, "tokens": 1223, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-30", "ok": true, "pred": "C", "thought": false, "tokens": 1307, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-31", "ok": true, "pred": "D", "thought": false, "tokens": 1298, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-32", "ok": true, "pred": "C", "thought": false, "tokens": 978, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-33", "ok": true, "pred": "A", "thought": false, "tokens": 682, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-34", "ok": true, "pred": "G", "thought": false, "tokens": 1464, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-35", "ok": true, "pred": "A", "thought": false, "tokens": 877, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-36", "ok": true, "pred": "F", "thought": false, "tokens": 1009, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-37", "ok": true, "pred": "C", "thought": false, "tokens": 1058, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-38", "ok": true, "pred": "A", "thought": false, "tokens": 1117, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-39", "ok": true, "pred": "G", "thought": false, "tokens": 2453, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-40", "ok": true, "pred": "C", "thought": false, "tokens": 1686, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-41", "ok": true, "pred": "D", "thought": false, "tokens": 689, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-42", "ok": true, "pred": "E", "thought": false, "tokens": 2710, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-43", "ok": true, "pred": "D", "thought": false, "tokens": 747, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-44", "ok": true, "pred": "A", "thought": false, "tokens": 2125, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-45", "ok": true, "pred": "B", "thought": false, "tokens": 768, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-46", "ok": true, "pred": "D", "thought": false, "tokens": 5468, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-47", "ok": true, "pred": "B", "thought": false, "tokens": 1004, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-48", "ok": true, "pred": "F", "thought": false, "tokens": 734, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-logical_deduction_seven_objects-49", "ok": true, "pred": "F", "thought": false, "tokens": 1013, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-0", "ok": true, "pred": "24", "thought": false, "tokens": 305, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-1", "ok": true, "pred": "63", "thought": false, "tokens": 313, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-2", "ok": true, "pred": "-50", "thought": false, "tokens": 291, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-3", "ok": true, "pred": "-11520", "thought": false, "tokens": 261, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-4", "ok": true, "pred": "58", "thought": false, "tokens": 290, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-5", "ok": true, "pred": "-33", "thought": false, "tokens": 311, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-6", "ok": true, "pred": "49", "thought": false, "tokens": 342, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-7", "ok": true, "pred": "-80", "thought": false, "tokens": 273, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-8", "ok": true, "pred": "702", "thought": false, "tokens": 360, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-9", "ok": true, "pred": "20", "thought": false, "tokens": 289, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-10", "ok": true, "pred": "54", "thought": false, "tokens": 274, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-11", "ok": true, "pred": "-8840", "thought": false, "tokens": 368, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-12", "ok": true, "pred": "42", "thought": false, "tokens": 286, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-13", "ok": true, "pred": "26", "thought": false, "tokens": 266, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-14", "ok": true, "pred": "-1960", "thought": false, "tokens": 350, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-15", "ok": true, "pred": "1608", "thought": false, "tokens": 263, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-16", "ok": true, "pred": "31", "thought": false, "tokens": 225, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-17", "ok": true, "pred": "2", "thought": false, "tokens": 222, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-18", "ok": true, "pred": "-92", "thought": false, "tokens": 306, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-19", "ok": true, "pred": "5", "thought": false, "tokens": 338, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-20", "ok": true, "pred": "-1", "thought": false, "tokens": 241, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-21", "ok": true, "pred": "-35", "thought": false, "tokens": 220, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-22", "ok": true, "pred": "-22", "thought": false, "tokens": 303, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-23", "ok": true, "pred": "-5", "thought": false, "tokens": 330, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-24", "ok": true, "pred": "-3400", "thought": false, "tokens": 305, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-25", "ok": true, "pred": "71", "thought": false, "tokens": 233, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-26", "ok": true, "pred": "-3", "thought": false, "tokens": 236, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-27", "ok": true, "pred": "25", "thought": false, "tokens": 279, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-28", "ok": true, "pred": "416", "thought": false, "tokens": 322, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-29", "ok": false, "pred": "30", "thought": false, "tokens": 274, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-30", "ok": true, "pred": "5", "thought": false, "tokens": 246, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-31", "ok": true, "pred": "-19", "thought": false, "tokens": 279, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-32", "ok": true, "pred": "44", "thought": false, "tokens": 296, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-33", "ok": true, "pred": "42", "thought": false, "tokens": 283, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-34", "ok": true, "pred": "72", "thought": false, "tokens": 248, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-35", "ok": true, "pred": "-170", "thought": false, "tokens": 283, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-36", "ok": true, "pred": "-20", "thought": false, "tokens": 219, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-37", "ok": true, "pred": "-9", "thought": false, "tokens": 286, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-38", "ok": true, "pred": "65", "thought": false, "tokens": 272, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-39", "ok": true, "pred": "70", "thought": false, "tokens": 259, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-40", "ok": true, "pred": "976", "thought": false, "tokens": 308, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-41", "ok": true, "pred": "2240", "thought": false, "tokens": 341, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-42", "ok": true, "pred": "57", "thought": false, "tokens": 241, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-43", "ok": true, "pred": "150", "thought": false, "tokens": 286, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-44", "ok": true, "pred": "37", "thought": false, "tokens": 285, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-45", "ok": true, "pred": "-35", "thought": false, "tokens": 333, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-46", "ok": true, "pred": "-20", "thought": false, "tokens": 289, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-47", "ok": false, "pred": "0", "thought": false, "tokens": 348, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-48", "ok": true, "pred": "-76", "thought": false, "tokens": 268, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-multistep_arithmetic_two-49", "ok": true, "pred": "-1343", "thought": false, "tokens": 304, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-0", "ok": true, "pred": "(A)", "thought": false, "tokens": 579, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-1", "ok": true, "pred": "E", "thought": false, "tokens": 450, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-2", "ok": true, "pred": "F", "thought": false, "tokens": 717, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-3", "ok": true, "pred": "E", "thought": false, "tokens": 4667, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-4", "ok": true, "pred": "A", "thought": false, "tokens": 458, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-5", "ok": true, "pred": "G", "thought": false, "tokens": 730, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-6", "ok": true, "pred": "D", "thought": false, "tokens": 503, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-7", "ok": true, "pred": "B", "thought": false, "tokens": 416, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-8", "ok": true, "pred": "E", "thought": false, "tokens": 421, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-9", "ok": true, "pred": "B", "thought": false, "tokens": 694, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-10", "ok": true, "pred": "D", "thought": false, "tokens": 691, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-11", "ok": true, "pred": "G", "thought": false, "tokens": 636, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-12", "ok": true, "pred": "G", "thought": false, "tokens": 591, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-13", "ok": true, "pred": "B", "thought": false, "tokens": 612, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-14", "ok": true, "pred": "C", "thought": false, "tokens": 569, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-15", "ok": true, "pred": "E", "thought": false, "tokens": 459, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-16", "ok": true, "pred": "C", "thought": false, "tokens": 664, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-17", "ok": true, "pred": "C", "thought": false, "tokens": 659, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-18", "ok": true, "pred": "F", "thought": false, "tokens": 426, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-19", "ok": true, "pred": "B", "thought": false, "tokens": 686, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-20", "ok": true, "pred": "C", "thought": false, "tokens": 579, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-21", "ok": true, "pred": "A", "thought": false, "tokens": 549, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-22", "ok": true, "pred": "F", "thought": false, "tokens": 574, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-23", "ok": true, "pred": "D", "thought": false, "tokens": 392, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-24", "ok": true, "pred": "B", "thought": false, "tokens": 477, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-25", "ok": true, "pred": "G", "thought": false, "tokens": 642, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-26", "ok": true, "pred": "B", "thought": false, "tokens": 598, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-27", "ok": true, "pred": "E", "thought": false, "tokens": 578, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-28", "ok": true, "pred": "G", "thought": false, "tokens": 1091, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-29", "ok": true, "pred": "D", "thought": false, "tokens": 1250, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-30", "ok": true, "pred": "E", "thought": false, "tokens": 731, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-31", "ok": false, "pred": "C", "thought": false, "tokens": 5507, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-32", "ok": true, "pred": "F", "thought": false, "tokens": 593, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-33", "ok": true, "pred": "G", "thought": false, "tokens": 419, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-34", "ok": true, "pred": "G", "thought": false, "tokens": 588, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-35", "ok": true, "pred": "F", "thought": false, "tokens": 687, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-36", "ok": true, "pred": "B", "thought": false, "tokens": 586, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-37", "ok": true, "pred": "E", "thought": false, "tokens": 450, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-38", "ok": true, "pred": "F", "thought": false, "tokens": 676, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-39", "ok": true, "pred": "C", "thought": false, "tokens": 893, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-40", "ok": true, "pred": "C", "thought": false, "tokens": 1609, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-41", "ok": true, "pred": "D", "thought": false, "tokens": 629, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-42", "ok": true, "pred": "C", "thought": false, "tokens": 855, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-43", "ok": true, "pred": "G", "thought": false, "tokens": 477, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-44", "ok": true, "pred": "G", "thought": false, "tokens": 548, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-45", "ok": true, "pred": "F", "thought": false, "tokens": 729, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-46", "ok": true, "pred": "G", "thought": false, "tokens": 417, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-47", "ok": true, "pred": "(A)", "thought": false, "tokens": 638, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-48", "ok": true, "pred": "B", "thought": false, "tokens": 586, "truncated": false, "closed": false}
+{"task": "bbhhard", "mode": "THINK", "id": "bbhhard-tracking_shuffled_objects_seven_objects-49", "ok": false, "pred": "D", "thought": false, "tokens": 454, "truncated": false, "closed": false}

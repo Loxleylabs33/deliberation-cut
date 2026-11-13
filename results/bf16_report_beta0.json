@@ -1,0 +1,62 @@
+{
+ "beta": 0.0,
+ "gguf": "Qwen3-4B-Thinking-Concise-bf16.gguf",
+ "tensors_compared": 398,
+ "gguf_tensors_not_matched": [],
+ "groups": {
+  "unit": {
+   "tensors": 47,
+   "elements": 389032576,
+   "identical": 376904334,
+   "differ_by_one_ulp": 7969847,
+   "differ_by_more": 4158395,
+   "pct_identical": 96.8825,
+   "pct_one_ulp": 2.0486,
+   "pct_more": 1.068907,
+   "max_abs_diff": 0.000244140625,
+   "rel_frobenius_vs_released": 6.430821588535168e-05,
+   "rel_frobenius_vs_piece": 0.0007246718619259889,
+   "gguf_f32_tensors_not_exactly_bf16": 0
+  },
+  "matrix": {
+   "tensors": 252,
+   "elements": 3633315840,
+   "identical": 3410926965,
+   "differ_by_one_ulp": 190178808,
+   "differ_by_more": 32210067,
+   "pct_identical": 93.8792,
+   "pct_one_ulp": 5.2343,
+   "pct_more": 0.88652,
+   "max_abs_diff": 0.001953125,
+   "rel_frobenius_vs_released": 0.0005811738342140489,
+   "rel_frobenius_vs_piece": 0.013738127044091865,
+   "gguf_f32_tensors_not_exactly_bf16": 0
+  },
+  "untouched": {
+   "tensors": 99,
+   "elements": 119680,
+   "identical": 119680,
+   "differ_by_one_ulp": 0,
+   "differ_by_more": 0,
+   "pct_identical": 100.0,
+   "pct_one_ulp": 0.0,
+   "pct_more": 0.0,
+   "max_abs_diff": 0.0,
+   "rel_frobenius_vs_released": 0.0,
+   "rel_frobenius_vs_piece": null,
+   "gguf_f32_tensors_not_exactly_bf16": 0
+  },
+  "all": {
+   "elements": 4022468096,
+   "identical": 3787950979,
+   "differ_by_one_ulp": 198148655,
+   "differ_by_more": 36368462,
+   "pct_identical": 94.1698,
+   "pct_one_ulp": 4.926,
+   "pct_more": 0.904133,
+   "max_abs_diff": 0.001953125,
+   "rel_frobenius_vs_released": 0.0005108478702933831
+  }
+ },
+ "seconds": 84
+}

@@ -1,0 +1,48 @@
+{
+ "label": "instruct-native",
+ "gguf": "models/instruct-bf16.gguf",
+ "results": {
+  "gsm8k": {
+   "mode": "NATIVE",
+   "n": 300,
+   "accuracy": 0.9467,
+   "seconds": 253,
+   "thought_rate": 0.0,
+   "median_tokens": 282,
+   "truncated": 1,
+   "cap": 4096
+  },
+  "math": {
+   "mode": "NATIVE",
+   "n": 50,
+   "accuracy": 0.92,
+   "seconds": 315,
+   "thought_rate": 0.0,
+   "median_tokens": 807,
+   "truncated": 1,
+   "cap": 8192
+  },
+  "bbh": {
+   "mode": "NATIVE",
+   "n": 90,
+   "accuracy": 0.7556,
+   "seconds": 239,
+   "thought_rate": 0.0,
+   "median_tokens": 552,
+   "truncated": 0,
+   "cap": 8192
+  },
+  "mmlu": {
+   "mode": "NATIVE",
+   "n": 500,
+   "accuracy": 0.688,
+   "seconds": 21
+  },
+  "ifeval": {
+   "mode": "NATIVE",
+   "n": 200,
+   "accuracy": 0.825,
+   "seconds": 193
+  }
+ }
+}

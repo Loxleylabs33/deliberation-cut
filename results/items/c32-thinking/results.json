@@ -1,0 +1,50 @@
+{
+ "label": "c32-thinking",
+ "gguf": "models/thinking-bf16.gguf",
+ "results": {
+  "mathhard": {
+   "mode": "THINK",
+   "n": 96,
+   "accuracy": 0.8958,
+   "seconds": 6088,
+   "thought_rate": 0.9688,
+   "closed_rate": 0.9688,
+   "median_tokens": 9491,
+   "truncated": 3,
+   "cap": 32768
+  },
+  "bbhhard": {
+   "mode": "THINK",
+   "n": 200,
+   "accuracy": 0.925,
+   "seconds": 3770,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 4080,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.92,
+   "seconds": 2373,
+   "thought_rate": 0.98,
+   "closed_rate": 0.98,
+   "median_tokens": 5644,
+   "truncated": 1,
+   "cap": 32768
+  },
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.96,
+   "seconds": 1558,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 1094,
+   "truncated": 0,
+   "cap": 32768
+  }
+ }
+}

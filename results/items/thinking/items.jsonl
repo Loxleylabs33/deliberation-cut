@@ -1,0 +1,1080 @@
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-0", "ok": true, "pred": "18", "thought": true, "tokens": 1264, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-1", "ok": true, "pred": "3", "thought": true, "tokens": 626, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-2", "ok": true, "pred": "70000", "thought": true, "tokens": 2276, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-3", "ok": true, "pred": "540", "thought": true, "tokens": 729, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-4", "ok": true, "pred": "20", "thought": true, "tokens": 2520, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-5", "ok": true, "pred": "64", "thought": true, "tokens": 1107, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-6", "ok": true, "pred": "260", "thought": true, "tokens": 983, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-7", "ok": true, "pred": "160", "thought": true, "tokens": 2822, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-8", "ok": true, "pred": "45", "thought": true, "tokens": 1679, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-9", "ok": true, "pred": "460", "thought": true, "tokens": 832, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-10", "ok": true, "pred": "366", "thought": true, "tokens": 1300, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-11", "ok": true, "pred": "694", "thought": true, "tokens": 1055, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-12", "ok": true, "pred": "13", "thought": true, "tokens": 2577, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-13", "ok": true, "pred": "18", "thought": true, "tokens": 1456, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-14", "ok": true, "pred": "60", "thought": true, "tokens": 1251, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-15", "ok": true, "pred": "125", "thought": true, "tokens": 1579, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-16", "ok": true, "pred": "230", "thought": true, "tokens": 843, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-17", "ok": true, "pred": "57500", "thought": true, "tokens": 896, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-18", "ok": true, "pred": "7", "thought": true, "tokens": 652, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-19", "ok": true, "pred": "6", "thought": true, "tokens": 1562, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-20", "ok": true, "pred": "15", "thought": true, "tokens": 1775, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-21", "ok": true, "pred": "14", "thought": true, "tokens": 1094, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-22", "ok": true, "pred": "7", "thought": true, "tokens": 455, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-23", "ok": true, "pred": "8", "thought": true, "tokens": 644, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-24", "ok": true, "pred": "26", "thought": true, "tokens": 1036, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-25", "ok": true, "pred": "2", "thought": true, "tokens": 1137, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-26", "ok": true, "pred": "243", "thought": true, "tokens": 1146, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-27", "ok": true, "pred": "16", "thought": true, "tokens": 750, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-28", "ok": true, "pred": "25", "thought": true, "tokens": 864, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-29", "ok": true, "pred": "104", "thought": true, "tokens": 864, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-30", "ok": true, "pred": "109", "thought": true, "tokens": 966, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-31", "ok": true, "pred": "80", "thought": true, "tokens": 1506, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-32", "ok": true, "pred": "35", "thought": true, "tokens": 472, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-33", "ok": true, "pred": "70", "thought": true, "tokens": 739, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-34", "ok": true, "pred": "23", "thought": true, "tokens": 832, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-35", "ok": true, "pred": "9", "thought": true, "tokens": 1109, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-36", "ok": true, "pred": "75", "thought": true, "tokens": 684, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-37", "ok": true, "pred": "2", "thought": true, "tokens": 2133, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-38", "ok": true, "pred": "10", "thought": true, "tokens": 2809, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-39", "ok": true, "pred": "18", "thought": true, "tokens": 2075, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-40", "ok": true, "pred": "8", "thought": true, "tokens": 3860, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-41", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-42", "ok": true, "pred": "26", "thought": true, "tokens": 843, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-43", "ok": true, "pred": "48", "thought": true, "tokens": 1326, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-44", "ok": true, "pred": "20", "thought": true, "tokens": 1375, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-45", "ok": true, "pred": "104", "thought": true, "tokens": 2164, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-46", "ok": true, "pred": "163", "thought": true, "tokens": 953, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-47", "ok": true, "pred": "800", "thought": true, "tokens": 1448, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-48", "ok": true, "pred": "8", "thought": true, "tokens": 770, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-49", "ok": true, "pred": "30", "thought": true, "tokens": 809, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-50", "ok": true, "pred": "294", "thought": true, "tokens": 1049, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-51", "ok": true, "pred": "5", "thought": true, "tokens": 888, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-52", "ok": true, "pred": "15", "thought": true, "tokens": 824, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-53", "ok": true, "pred": "40", "thought": true, "tokens": 1026, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-54", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-55", "ok": true, "pred": "14", "thought": true, "tokens": 379, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-56", "ok": true, "pred": "3", "thought": true, "tokens": 449, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-57", "ok": true, "pred": "83", "thought": true, "tokens": 1520, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-58", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-59", "ok": true, "pred": "187", "thought": true, "tokens": 587, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-60", "ok": true, "pred": "17", "thought": true, "tokens": 2934, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-61", "ok": true, "pred": "1430", "thought": true, "tokens": 2324, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-62", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-63", "ok": true, "pred": "1596", "thought": true, "tokens": 1416, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-64", "ok": false, "pred": "150", "thought": true, "tokens": 1592, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-65", "ok": true, "pred": "36", "thought": true, "tokens": 1265, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-66", "ok": true, "pred": "48", "thought": true, "tokens": 1057, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-67", "ok": true, "pred": "595", "thought": true, "tokens": 1663, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-68", "ok": true, "pred": "36", "thought": true, "tokens": 871, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-69", "ok": true, "pred": "60", "thought": true, "tokens": 798, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-70", "ok": true, "pred": "7425", "thought": true, "tokens": 1261, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-71", "ok": true, "pred": "60", "thought": true, "tokens": 410, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-72", "ok": true, "pred": "221", "thought": true, "tokens": 1132, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-73", "ok": true, "pred": "255", "thought": true, "tokens": 2361, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-74", "ok": true, "pred": "88", "thought": true, "tokens": 967, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-75", "ok": true, "pred": "60", "thought": true, "tokens": 2351, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-76", "ok": true, "pred": "5", "thought": true, "tokens": 1222, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-77", "ok": true, "pred": "100", "thought": true, "tokens": 1025, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-78", "ok": true, "pred": "6", "thought": true, "tokens": 1236, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-79", "ok": true, "pred": "70", "thought": true, "tokens": 559, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-80", "ok": true, "pred": "10", "thought": true, "tokens": 901, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-81", "ok": true, "pred": "17", "thought": true, "tokens": 866, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-82", "ok": true, "pred": "623", "thought": true, "tokens": 859, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-83", "ok": true, "pred": "600", "thought": true, "tokens": 663, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-84", "ok": true, "pred": "15", "thought": true, "tokens": 965, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-85", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-86", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-87", "ok": true, "pred": "9360", "thought": true, "tokens": 3765, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-88", "ok": true, "pred": "8000", "thought": true, "tokens": 756, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-89", "ok": true, "pred": "24", "thought": true, "tokens": 832, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-90", "ok": true, "pred": "225", "thought": true, "tokens": 696, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-91", "ok": true, "pred": "28", "thought": true, "tokens": 1010, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-92", "ok": true, "pred": "4", "thought": true, "tokens": 1070, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-93", "ok": false, "pred": "36.36", "thought": true, "tokens": 3483, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-94", "ok": true, "pred": "348", "thought": true, "tokens": 1137, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-95", "ok": true, "pred": "40", "thought": true, "tokens": 883, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-96", "ok": true, "pred": "3", "thought": true, "tokens": 446, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-97", "ok": true, "pred": "12", "thought": true, "tokens": 2124, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-98", "ok": true, "pred": "5", "thought": true, "tokens": 1411, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-99", "ok": true, "pred": "58", "thought": true, "tokens": 1498, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-100", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-101", "ok": true, "pred": "6", "thought": true, "tokens": 750, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-102", "ok": true, "pred": "26", "thought": true, "tokens": 3500, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-103", "ok": true, "pred": "140", "thought": true, "tokens": 1169, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-104", "ok": true, "pred": "500", "thought": true, "tokens": 1016, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-105", "ok": true, "pred": "20", "thought": true, "tokens": 486, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-106", "ok": true, "pred": "72", "thought": true, "tokens": 2509, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-107", "ok": true, "pred": "3", "thought": true, "tokens": 843, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-108", "ok": true, "pred": "50", "thought": true, "tokens": 826, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-109", "ok": true, "pred": "28", "thought": true, "tokens": 944, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-110", "ok": true, "pred": "45", "thought": true, "tokens": 884, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-111", "ok": true, "pred": "16", "thought": true, "tokens": 3622, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-112", "ok": true, "pred": "24", "thought": true, "tokens": 963, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-113", "ok": true, "pred": "25", "thought": true, "tokens": 430, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-114", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-115", "ok": true, "pred": "90", "thought": true, "tokens": 2104, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-116", "ok": true, "pred": "42", "thought": true, "tokens": 2465, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-117", "ok": true, "pred": "360", "thought": true, "tokens": 443, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-118", "ok": true, "pred": "4", "thought": true, "tokens": 843, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-119", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-120", "ok": true, "pred": "240", "thought": true, "tokens": 818, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-121", "ok": true, "pred": "27", "thought": true, "tokens": 1514, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-122", "ok": true, "pred": "48", "thought": true, "tokens": 2212, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-123", "ok": true, "pred": "50", "thought": true, "tokens": 1076, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-124", "ok": true, "pred": "10", "thought": true, "tokens": 1027, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-125", "ok": true, "pred": "10", "thought": true, "tokens": 779, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-126", "ok": true, "pred": "82", "thought": true, "tokens": 505, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-127", "ok": true, "pred": "120", "thought": true, "tokens": 622, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-128", "ok": true, "pred": "880", "thought": true, "tokens": 874, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-129", "ok": true, "pred": "10000", "thought": true, "tokens": 1792, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-130", "ok": true, "pred": "30", "thought": true, "tokens": 804, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-131", "ok": true, "pred": "940", "thought": true, "tokens": 434, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-132", "ok": true, "pred": "60", "thought": true, "tokens": 905, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-133", "ok": true, "pred": "13", "thought": true, "tokens": 906, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-134", "ok": true, "pred": "720", "thought": true, "tokens": 554, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-135", "ok": true, "pred": "40", "thought": true, "tokens": 975, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-136", "ok": true, "pred": "6", "thought": true, "tokens": 768, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-137", "ok": true, "pred": "29", "thought": true, "tokens": 1370, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-138", "ok": true, "pred": "105", "thought": true, "tokens": 1442, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-139", "ok": true, "pred": "70", "thought": true, "tokens": 2266, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-140", "ok": true, "pred": "20", "thought": true, "tokens": 704, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-141", "ok": true, "pred": "400", "thought": true, "tokens": 903, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-142", "ok": true, "pred": "140", "thought": true, "tokens": 515, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-143", "ok": true, "pred": "16", "thought": true, "tokens": 1301, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-144", "ok": true, "pred": "20", "thought": true, "tokens": 843, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-145", "ok": true, "pred": "4000", "thought": true, "tokens": 1012, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-146", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-147", "ok": false, "pred": "15", "thought": true, "tokens": 3255, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-148", "ok": true, "pred": "30", "thought": true, "tokens": 824, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-149", "ok": true, "pred": "16", "thought": true, "tokens": 713, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-150", "ok": true, "pred": "4", "thought": true, "tokens": 1606, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-151", "ok": true, "pred": "5", "thought": true, "tokens": 553, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-152", "ok": true, "pred": "4.00", "thought": true, "tokens": 651, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-153", "ok": true, "pred": "48", "thought": true, "tokens": 3534, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-154", "ok": true, "pred": "272", "thought": true, "tokens": 1397, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-155", "ok": true, "pred": "280", "thought": true, "tokens": 1454, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-156", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-157", "ok": true, "pred": "80", "thought": true, "tokens": 3838, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-158", "ok": true, "pred": "34", "thought": true, "tokens": 654, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-159", "ok": true, "pred": "15", "thought": true, "tokens": 3580, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-160", "ok": true, "pred": "16", "thought": true, "tokens": 774, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-161", "ok": true, "pred": "32", "thought": true, "tokens": 1537, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-162", "ok": true, "pred": "92", "thought": true, "tokens": 1691, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-163", "ok": true, "pred": "50", "thought": true, "tokens": 968, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-164", "ok": true, "pred": "15", "thought": true, "tokens": 1136, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-165", "ok": true, "pred": "77", "thought": true, "tokens": 1422, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-166", "ok": true, "pred": "5", "thought": true, "tokens": 839, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-167", "ok": true, "pred": "16", "thought": true, "tokens": 882, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-168", "ok": true, "pred": "18", "thought": true, "tokens": 380, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-169", "ok": true, "pred": "120", "thought": true, "tokens": 903, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-170", "ok": true, "pred": "150", "thought": true, "tokens": 681, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-171", "ok": true, "pred": "1210", "thought": true, "tokens": 1011, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-172", "ok": true, "pred": "51", "thought": true, "tokens": 1553, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-173", "ok": true, "pred": "18000", "thought": true, "tokens": 1528, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-174", "ok": true, "pred": "95", "thought": true, "tokens": 2425, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-175", "ok": true, "pred": "15", "thought": true, "tokens": 1510, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-176", "ok": true, "pred": "100", "thought": true, "tokens": 614, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-177", "ok": true, "pred": "350", "thought": true, "tokens": 1655, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-178", "ok": true, "pred": "122", "thought": true, "tokens": 1177, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-179", "ok": true, "pred": "130", "thought": true, "tokens": 474, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-180", "ok": true, "pred": "20", "thought": true, "tokens": 615, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-181", "ok": true, "pred": "160", "thought": true, "tokens": 2664, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-182", "ok": true, "pred": "23", "thought": true, "tokens": 2319, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-183", "ok": true, "pred": "2", "thought": true, "tokens": 1752, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-184", "ok": false, "pred": "100", "thought": true, "tokens": 2655, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-185", "ok": true, "pred": "30", "thought": true, "tokens": 351, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-186", "ok": true, "pred": "5", "thought": true, "tokens": 1387, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-187", "ok": false, "pred": "106.12", "thought": true, "tokens": 2882, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-188", "ok": true, "pred": "50", "thought": true, "tokens": 1027, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-189", "ok": true, "pred": "34", "thought": true, "tokens": 1363, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-190", "ok": true, "pred": "360", "thought": true, "tokens": 536, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-191", "ok": true, "pred": "5", "thought": true, "tokens": 627, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-192", "ok": true, "pred": "91", "thought": true, "tokens": 2785, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-193", "ok": true, "pred": "24", "thought": true, "tokens": 3013, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-194", "ok": true, "pred": "10", "thought": true, "tokens": 388, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-195", "ok": true, "pred": "12.00", "thought": true, "tokens": 670, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-196", "ok": true, "pred": "120", "thought": true, "tokens": 607, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-197", "ok": true, "pred": "6277", "thought": true, "tokens": 1690, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-198", "ok": true, "pred": "320", "thought": true, "tokens": 1051, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-199", "ok": true, "pred": "7500", "thought": true, "tokens": 746, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-200", "ok": true, "pred": "55", "thought": true, "tokens": 547, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-201", "ok": true, "pred": "114200", "thought": true, "tokens": 1906, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-202", "ok": true, "pred": "100", "thought": true, "tokens": 566, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-203", "ok": true, "pred": "31", "thought": true, "tokens": 3439, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-204", "ok": true, "pred": "98", "thought": true, "tokens": 823, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-205", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-206", "ok": true, "pred": "860", "thought": true, "tokens": 1507, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-207", "ok": true, "pred": "2600", "thought": true, "tokens": 862, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-208", "ok": true, "pred": "76", "thought": true, "tokens": 852, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-209", "ok": true, "pred": "145", "thought": true, "tokens": 1555, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-210", "ok": true, "pred": "10", "thought": true, "tokens": 1812, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-211", "ok": true, "pred": "4", "thought": true, "tokens": 993, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-212", "ok": true, "pred": "5", "thought": true, "tokens": 676, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-213", "ok": true, "pred": "250", "thought": true, "tokens": 1535, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-214", "ok": true, "pred": "8", "thought": true, "tokens": 2666, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-215", "ok": true, "pred": "44", "thought": true, "tokens": 513, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-216", "ok": true, "pred": "220", "thought": true, "tokens": 1253, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-217", "ok": true, "pred": "15", "thought": true, "tokens": 473, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-218", "ok": true, "pred": "45", "thought": true, "tokens": 1226, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-219", "ok": true, "pred": "54", "thought": true, "tokens": 1590, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-220", "ok": true, "pred": "70", "thought": true, "tokens": 635, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-221", "ok": true, "pred": "90", "thought": true, "tokens": 724, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-222", "ok": true, "pred": "140", "thought": true, "tokens": 462, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-223", "ok": true, "pred": "20000", "thought": true, "tokens": 522, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-224", "ok": true, "pred": "180", "thought": true, "tokens": 758, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-225", "ok": true, "pred": "9", "thought": true, "tokens": 1420, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-226", "ok": true, "pred": "33", "thought": true, "tokens": 1118, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-227", "ok": true, "pred": "9.00", "thought": true, "tokens": 1101, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-228", "ok": true, "pred": "1", "thought": true, "tokens": 526, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-229", "ok": true, "pred": "21", "thought": true, "tokens": 1316, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-230", "ok": true, "pred": "276000", "thought": true, "tokens": 1063, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-231", "ok": true, "pred": "50", "thought": true, "tokens": 1410, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-232", "ok": true, "pred": "75", "thought": true, "tokens": 893, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-233", "ok": true, "pred": "12", "thought": true, "tokens": 2733, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-234", "ok": false, "pred": "14", "thought": true, "tokens": 1525, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-235", "ok": true, "pred": "10", "thought": true, "tokens": 817, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-236", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-237", "ok": true, "pred": "90", "thought": true, "tokens": 746, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-238", "ok": true, "pred": "68", "thought": true, "tokens": 869, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-239", "ok": true, "pred": "280", "thought": true, "tokens": 1004, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-240", "ok": true, "pred": "21", "thought": true, "tokens": 768, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-241", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-242", "ok": true, "pred": "3", "thought": true, "tokens": 2201, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-243", "ok": true, "pred": "250", "thought": true, "tokens": 1372, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-244", "ok": true, "pred": "20", "thought": true, "tokens": 1404, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-245", "ok": true, "pred": "7", "thought": true, "tokens": 2007, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-246", "ok": true, "pred": "27000", "thought": true, "tokens": 1196, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-247", "ok": true, "pred": "32", "thought": true, "tokens": 1089, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-248", "ok": true, "pred": "300", "thought": true, "tokens": 532, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-249", "ok": true, "pred": "5600", "thought": true, "tokens": 1599, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-250", "ok": true, "pred": "17", "thought": true, "tokens": 1066, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-251", "ok": true, "pred": "70", "thought": true, "tokens": 361, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-252", "ok": true, "pred": "73", "thought": true, "tokens": 1140, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-253", "ok": true, "pred": "18", "thought": true, "tokens": 530, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-254", "ok": true, "pred": "84", "thought": true, "tokens": 716, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-255", "ok": true, "pred": "192", "thought": true, "tokens": 3442, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-256", "ok": true, "pred": "45", "thought": true, "tokens": 1318, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-257", "ok": true, "pred": "5600", "thought": true, "tokens": 1201, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-258", "ok": true, "pred": "6.00", "thought": true, "tokens": 2055, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-259", "ok": true, "pred": "168", "thought": true, "tokens": 1361, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-260", "ok": true, "pred": "11", "thought": true, "tokens": 944, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-261", "ok": true, "pred": "62", "thought": true, "tokens": 727, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-262", "ok": true, "pred": "270", "thought": true, "tokens": 672, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-263", "ok": true, "pred": "8", "thought": true, "tokens": 796, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-264", "ok": true, "pred": "400", "thought": true, "tokens": 650, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-265", "ok": true, "pred": "9500", "thought": true, "tokens": 1688, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-266", "ok": true, "pred": "118000", "thought": true, "tokens": 2611, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-267", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-268", "ok": true, "pred": "1375", "thought": true, "tokens": 888, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-269", "ok": true, "pred": "4", "thought": true, "tokens": 460, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-270", "ok": true, "pred": "762", "thought": true, "tokens": 761, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-271", "ok": true, "pred": "20", "thought": true, "tokens": 1069, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-272", "ok": true, "pred": "5.00", "thought": true, "tokens": 1498, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-273", "ok": true, "pred": "315", "thought": true, "tokens": 1011, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-274", "ok": true, "pred": "3200", "thought": true, "tokens": 767, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-275", "ok": true, "pred": "138", "thought": true, "tokens": 1794, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-276", "ok": true, "pred": "9", "thought": true, "tokens": 1209, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-277", "ok": true, "pred": "4", "thought": true, "tokens": 786, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-278", "ok": true, "pred": "40", "thought": true, "tokens": 686, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-279", "ok": true, "pred": "6", "thought": true, "tokens": 1502, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-280", "ok": true, "pred": "7", "thought": true, "tokens": 604, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-281", "ok": true, "pred": "2450", "thought": true, "tokens": 1203, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-282", "ok": true, "pred": "195", "thought": true, "tokens": 761, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-283", "ok": true, "pred": "68", "thought": true, "tokens": 3113, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-284", "ok": true, "pred": "360", "thought": true, "tokens": 1290, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-285", "ok": true, "pred": "21", "thought": true, "tokens": 409, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-286", "ok": true, "pred": "90", "thought": true, "tokens": 818, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-287", "ok": true, "pred": "8", "thought": true, "tokens": 1042, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-288", "ok": true, "pred": "3", "thought": true, "tokens": 643, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-289", "ok": true, "pred": "16", "thought": true, "tokens": 913, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-290", "ok": true, "pred": "390", "thought": true, "tokens": 997, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-291", "ok": true, "pred": "2", "thought": true, "tokens": 797, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-292", "ok": true, "pred": "75", "thought": true, "tokens": 1243, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-293", "ok": true, "pred": "83", "thought": true, "tokens": 2129, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-294", "ok": true, "pred": "3", "thought": true, "tokens": 1097, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-295", "ok": true, "pred": "370", "thought": true, "tokens": 1134, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-296", "ok": true, "pred": "3", "thought": true, "tokens": 1073, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-297", "ok": true, "pred": "55", "thought": true, "tokens": 1448, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-298", "ok": true, "pred": "500", "thought": true, "tokens": 2643, "truncated": false}
+{"task": "gsm8k", "mode": "THINK", "id": "gsm8k-299", "ok": true, "pred": "31800", "thought": true, "tokens": 2155, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/807.json", "ok": true, "pred": "(3, \\frac{\\pi}{2})", "thought": true, "tokens": 1587, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1622.json", "ok": true, "pred": "42", "thought": true, "tokens": 1725, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/1032.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/990.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1098.json", "ok": true, "pred": "6 + 9i", "thought": true, "tokens": 758, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1388.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/864.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/627.json", "ok": true, "pred": "3", "thought": true, "tokens": 3495, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/930.json", "ok": true, "pred": "12", "thought": true, "tokens": 3831, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/178.json", "ok": true, "pred": "2", "thought": true, "tokens": 1451, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/1055.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/187.json", "ok": true, "pred": "3", "thought": true, "tokens": 1691, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/956.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1747.json", "ok": true, "pred": "1", "thought": true, "tokens": 1195, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/46.json", "ok": false, "pred": "40", "thought": true, "tokens": 3143, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/1114.json", "ok": true, "pred": "\\dfrac{11}{36}", "thought": true, "tokens": 2568, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1849.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/353.json", "ok": true, "pred": "\\sqrt{5}", "thought": true, "tokens": 3013, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1761.json", "ok": true, "pred": "\\frac{3}{2}", "thought": true, "tokens": 814, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/34.json", "ok": true, "pred": "-4", "thought": true, "tokens": 2212, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/183.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1804.json", "ok": true, "pred": "29", "thought": true, "tokens": 1723, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/345.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/1060.json", "ok": true, "pred": "1260", "thought": true, "tokens": 3306, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/128.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2232.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/753.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1297.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/156.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1408.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/964.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/803.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/521.json", "ok": true, "pred": "18", "thought": true, "tokens": 1078, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1356.json", "ok": true, "pred": "\\frac{4}{9}", "thought": true, "tokens": 1614, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/297.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/991.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1908.json", "ok": true, "pred": "3", "thought": true, "tokens": 2537, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1214.json", "ok": true, "pred": "1", "thought": true, "tokens": 755, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/51.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/591.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/2086.json", "ok": true, "pred": "40", "thought": true, "tokens": 2189, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/263.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/378.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/907.json", "ok": true, "pred": "2", "thought": true, "tokens": 1683, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1961.json", "ok": true, "pred": "\\dfrac{16}{27}", "thought": true, "tokens": 1478, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2159.json", "ok": true, "pred": "11", "thought": true, "tokens": 1573, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/986.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/153.json", "ok": false, "pred": "\\dfrac{5}{9}", "thought": true, "tokens": 1885, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/874.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1210.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1934.json", "ok": true, "pred": "13", "thought": true, "tokens": 1596, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/452.json", "ok": false, "pred": "E", "thought": true, "tokens": 1897, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/580.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/524.json", "ok": true, "pred": "4005", "thought": true, "tokens": 1205, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2551.json", "ok": true, "pred": "10", "thought": true, "tokens": 3177, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/346.json", "ok": true, "pred": "7", "thought": true, "tokens": 839, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/1287.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1411.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/634.json", "ok": true, "pred": "4", "thought": true, "tokens": 2209, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/1201.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/339.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2257.json", "ok": false, "pred": "\\dfrac{9}{19}", "thought": true, "tokens": 1837, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1842.json", "ok": true, "pred": "49", "thought": true, "tokens": 2065, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/791.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/947.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/73.json", "ok": true, "pred": "4", "thought": true, "tokens": 1309, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/216.json", "ok": true, "pred": "1940", "thought": true, "tokens": 2685, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/483.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/801.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1529.json", "ok": true, "pred": "1", "thought": true, "tokens": 1732, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/686.json", "ok": true, "pred": "4", "thought": true, "tokens": 2485, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1166.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/96.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/820.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/1289.json", "ok": true, "pred": "-41", "thought": true, "tokens": 838, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/427.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1992.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/2066.json", "ok": true, "pred": "22", "thought": true, "tokens": 1914, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/853.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/114.json", "ok": true, "pred": "4", "thought": true, "tokens": 1336, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/817.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1572.json", "ok": true, "pred": "60", "thought": true, "tokens": 2394, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/65.json", "ok": true, "pred": "6", "thought": true, "tokens": 2321, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/769.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/625.json", "ok": false, "pred": "\\begin{pmatrix} \\dfrac{16}{49} \\\\ \\dfrac{48}{49} \\\\ \\dfrac{24}{49} \\end{pmatrix}", "thought": true, "tokens": 2026, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/1133.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/2019.json", "ok": true, "pred": "4.5", "thought": true, "tokens": 661, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2043.json", "ok": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "thought": true, "tokens": 1870, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2080.json", "ok": true, "pred": "14", "thought": true, "tokens": 1337, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1779.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/13.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/190.json", "ok": true, "pred": "6", "thought": true, "tokens": 1264, "truncated": false}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/914.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/72.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/158.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/1003.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/1252.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/199.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1350.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1981.json", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-0", "ok": true, "pred": "False", "thought": true, "tokens": 821, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-1", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-2", "ok": true, "pred": "False", "thought": true, "tokens": 2020, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-3", "ok": true, "pred": "False", "thought": true, "tokens": 2675, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-4", "ok": true, "pred": "True", "thought": true, "tokens": 2609, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-5", "ok": true, "pred": "True", "thought": true, "tokens": 2869, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-6", "ok": true, "pred": "False", "thought": true, "tokens": 1407, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-7", "ok": true, "pred": "True", "thought": true, "tokens": 2383, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-8", "ok": true, "pred": "False", "thought": true, "tokens": 1415, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-9", "ok": true, "pred": "True", "thought": true, "tokens": 1472, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-10", "ok": true, "pred": "False", "thought": true, "tokens": 2844, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-11", "ok": true, "pred": "True", "thought": true, "tokens": 1714, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-12", "ok": true, "pred": "True", "thought": true, "tokens": 1618, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-13", "ok": true, "pred": "False", "thought": true, "tokens": 1390, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-14", "ok": true, "pred": "True", "thought": true, "tokens": 2042, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-15", "ok": true, "pred": "True", "thought": true, "tokens": 1593, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-16", "ok": true, "pred": "False", "thought": true, "tokens": 1769, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-17", "ok": true, "pred": "False", "thought": true, "tokens": 1486, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-18", "ok": true, "pred": "True", "thought": true, "tokens": 1995, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-19", "ok": true, "pred": "False", "thought": true, "tokens": 1214, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-20", "ok": true, "pred": "False", "thought": true, "tokens": 2053, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-21", "ok": true, "pred": "True", "thought": true, "tokens": 1363, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-22", "ok": true, "pred": "True", "thought": true, "tokens": 1710, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-23", "ok": true, "pred": "True", "thought": true, "tokens": 1684, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-24", "ok": true, "pred": "False", "thought": true, "tokens": 1597, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-25", "ok": true, "pred": "True", "thought": true, "tokens": 1249, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-26", "ok": true, "pred": "True", "thought": true, "tokens": 2006, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-27", "ok": true, "pred": "True", "thought": true, "tokens": 2115, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-28", "ok": true, "pred": "True", "thought": true, "tokens": 3076, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-boolean_expressions-29", "ok": true, "pred": "True", "thought": true, "tokens": 2056, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-0", "ok": true, "pred": "B", "thought": true, "tokens": 956, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-1", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-2", "ok": false, "pred": "C", "thought": true, "tokens": 2275, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-3", "ok": true, "pred": "E", "thought": true, "tokens": 4062, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-4", "ok": true, "pred": "B", "thought": true, "tokens": 3665, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-5", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-6", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-7", "ok": true, "pred": "B", "thought": true, "tokens": 1675, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-8", "ok": true, "pred": "D", "thought": true, "tokens": 1230, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-9", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-10", "ok": true, "pred": "C", "thought": true, "tokens": 1695, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-11", "ok": true, "pred": "B", "thought": true, "tokens": 1626, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-12", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-13", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-14", "ok": true, "pred": "B", "thought": true, "tokens": 1564, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-15", "ok": true, "pred": "D", "thought": true, "tokens": 2588, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-16", "ok": true, "pred": "E", "thought": true, "tokens": 3363, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-17", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-18", "ok": true, "pred": "C", "thought": true, "tokens": 2591, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-19", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-20", "ok": true, "pred": "B", "thought": true, "tokens": 3214, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-21", "ok": true, "pred": "B", "thought": true, "tokens": 3818, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-22", "ok": true, "pred": "D", "thought": true, "tokens": 911, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-23", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-24", "ok": true, "pred": "A", "thought": true, "tokens": 3436, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-25", "ok": true, "pred": "D", "thought": true, "tokens": 1844, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-26", "ok": true, "pred": "F", "thought": true, "tokens": 1506, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-27", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-28", "ok": true, "pred": "F", "thought": true, "tokens": 2155, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-date_understanding-29", "ok": true, "pred": "D", "thought": true, "tokens": 2285, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-0", "ok": true, "pred": "invalid", "thought": true, "tokens": 2535, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-1", "ok": true, "pred": "invalid", "thought": true, "tokens": 2006, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-2", "ok": true, "pred": "invalid", "thought": true, "tokens": 2371, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-3", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-4", "ok": true, "pred": "invalid", "thought": true, "tokens": 3473, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-5", "ok": true, "pred": "invalid", "thought": true, "tokens": 3671, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-6", "ok": true, "pred": "invalid", "thought": true, "tokens": 1721, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-7", "ok": true, "pred": "valid", "thought": true, "tokens": 2498, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-8", "ok": true, "pred": "valid", "thought": true, "tokens": 2583, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-9", "ok": true, "pred": "valid", "thought": true, "tokens": 3365, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-10", "ok": false, "pred": "\\text{valid}", "thought": true, "tokens": 3344, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-11", "ok": true, "pred": "invalid", "thought": true, "tokens": 2442, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-12", "ok": true, "pred": "valid", "thought": true, "tokens": 3101, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-13", "ok": true, "pred": "invalid", "thought": true, "tokens": 3683, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-14", "ok": false, "pred": "\\text{invalid}", "thought": true, "tokens": 3442, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-15", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-16", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-17", "ok": true, "pred": "valid", "thought": true, "tokens": 2294, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-18", "ok": true, "pred": "invalid", "thought": true, "tokens": 2876, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-19", "ok": true, "pred": "valid", "thought": true, "tokens": 2578, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-20", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-21", "ok": true, "pred": "invalid", "thought": true, "tokens": 2263, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-22", "ok": true, "pred": "valid", "thought": true, "tokens": 2591, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-23", "ok": true, "pred": "valid", "thought": true, "tokens": 3643, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-24", "ok": true, "pred": "invalid", "thought": true, "tokens": 3085, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-25", "ok": false, "pred": "\\text{valid}", "thought": true, "tokens": 3786, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-26", "ok": true, "pred": "valid", "thought": true, "tokens": 1285, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-27", "ok": true, "pred": "invalid", "thought": true, "tokens": 3561, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-28", "ok": true, "pred": "valid", "thought": true, "tokens": 3357, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-formal_fallacies-29", "ok": true, "pred": "invalid", "thought": true, "tokens": 3140, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-0", "ok": true, "pred": "A", "thought": true, "tokens": 3751, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-1", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-2", "ok": true, "pred": "E", "thought": true, "tokens": 2114, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-3", "ok": true, "pred": "B", "thought": true, "tokens": 2150, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-4", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-5", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-6", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-7", "ok": true, "pred": "D", "thought": true, "tokens": 3968, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-8", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-9", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-10", "ok": true, "pred": "D", "thought": true, "tokens": 4016, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-11", "ok": true, "pred": "B", "thought": true, "tokens": 2805, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-12", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-13", "ok": true, "pred": "D", "thought": true, "tokens": 3529, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-14", "ok": true, "pred": "A", "thought": true, "tokens": 3358, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-15", "ok": true, "pred": "A", "thought": true, "tokens": 3562, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-16", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-17", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-18", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-19", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-20", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-21", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-22", "ok": true, "pred": "B", "thought": true, "tokens": 3204, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-23", "ok": true, "pred": "A", "thought": true, "tokens": 3812, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-24", "ok": true, "pred": "D", "thought": true, "tokens": 3595, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-25", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-26", "ok": true, "pred": "E", "thought": true, "tokens": 3709, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-27", "ok": true, "pred": "E", "thought": true, "tokens": 2771, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-28", "ok": true, "pred": "A", "thought": true, "tokens": 2360, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-logical_deduction_five_objects-29", "ok": true, "pred": "D", "thought": true, "tokens": 1827, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-0", "ok": true, "pred": "B", "thought": true, "tokens": 1894, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-1", "ok": true, "pred": "A", "thought": true, "tokens": 1762, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-2", "ok": true, "pred": "C", "thought": true, "tokens": 1316, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-3", "ok": true, "pred": "C", "thought": true, "tokens": 3674, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-4", "ok": true, "pred": "A", "thought": true, "tokens": 3197, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-5", "ok": true, "pred": "B", "thought": true, "tokens": 2180, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-6", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-7", "ok": true, "pred": "A", "thought": true, "tokens": 2416, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-8", "ok": true, "pred": "A", "thought": true, "tokens": 2046, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-9", "ok": true, "pred": "C", "thought": true, "tokens": 2827, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-10", "ok": true, "pred": "A", "thought": true, "tokens": 1881, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-11", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-12", "ok": true, "pred": "C", "thought": true, "tokens": 1660, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-13", "ok": true, "pred": "C", "thought": true, "tokens": 1556, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-14", "ok": true, "pred": "C", "thought": true, "tokens": 1108, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-15", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-16", "ok": true, "pred": "B", "thought": true, "tokens": 1374, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-17", "ok": true, "pred": "B", "thought": true, "tokens": 1124, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-18", "ok": true, "pred": "A", "thought": true, "tokens": 3015, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-19", "ok": true, "pred": "B", "thought": true, "tokens": 1072, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-20", "ok": true, "pred": "C", "thought": true, "tokens": 3418, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-21", "ok": true, "pred": "A", "thought": true, "tokens": 1286, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-22", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-23", "ok": true, "pred": "A", "thought": true, "tokens": 2286, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-24", "ok": true, "pred": "C", "thought": true, "tokens": 1554, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-25", "ok": true, "pred": "A", "thought": true, "tokens": 1148, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-26", "ok": true, "pred": "A", "thought": true, "tokens": 2020, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-27", "ok": true, "pred": "B", "thought": true, "tokens": 1784, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-28", "ok": true, "pred": "A", "thought": true, "tokens": 1881, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-tracking_shuffled_objects_three_objects-29", "ok": true, "pred": "B", "thought": true, "tokens": 3373, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-0", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-1", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-2", "ok": true, "pred": "No", "thought": true, "tokens": 3361, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-3", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-4", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-5", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-6", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-7", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-8", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-9", "ok": true, "pred": "No", "thought": true, "tokens": 2970, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-10", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-11", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-12", "ok": true, "pred": "Yes", "thought": true, "tokens": 2772, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-13", "ok": true, "pred": "No", "thought": true, "tokens": 2110, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-14", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-15", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-16", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-17", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-18", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-19", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-20", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-21", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-22", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-23", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-24", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-25", "ok": true, "pred": "Yes", "thought": true, "tokens": 3747, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-26", "ok": true, "pred": "Yes", "thought": true, "tokens": 2371, "truncated": false}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-27", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-28", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "bbh", "mode": "THINK", "id": "bbh-web_of_lies-29", "ok": false, "pred": null, "thought": true, "tokens": 4096, "truncated": true}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-0", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-1", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-2", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-3", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-4", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-5", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-6", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-7", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-8", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-9", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-10", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-11", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-12", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-13", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-14", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-15", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-16", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-17", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-18", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-19", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-20", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-21", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-22", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-23", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-24", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-25", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-26", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-27", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-28", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-29", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-30", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-31", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-32", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-33", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-34", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-35", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-36", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-37", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-38", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-39", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-40", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-41", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-42", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-43", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-44", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-45", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-46", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-47", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-48", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-49", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-50", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-51", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-52", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-53", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-54", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-55", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-56", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-57", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-58", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-59", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-60", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-61", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-62", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-63", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-64", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-65", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-66", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-67", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-68", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-69", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-70", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-71", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-72", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-73", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-74", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-75", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-76", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-77", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-78", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-79", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-80", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-81", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-82", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-83", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-84", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-85", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-86", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-87", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-88", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-89", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-90", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-91", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-92", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-93", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-94", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-95", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-96", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-97", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-98", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-99", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-100", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-101", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-102", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-103", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-104", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-105", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-106", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-107", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-108", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-109", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-110", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-111", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-112", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-113", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-114", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-115", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-116", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-117", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-118", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-119", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-120", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-121", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-122", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-123", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-124", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-125", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-126", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-127", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-128", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-129", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-130", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-131", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-132", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-133", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-134", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-135", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-136", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-137", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-138", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-139", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-140", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-141", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-142", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-143", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-144", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-145", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-146", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-147", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-148", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-149", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-150", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-151", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-152", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-153", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-154", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-155", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-156", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-157", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-158", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-159", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-160", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-161", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-162", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-163", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-164", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-165", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-166", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-167", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-168", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-169", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-170", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-171", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-172", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-173", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-174", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-175", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-176", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-177", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-178", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-179", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-180", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-181", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-182", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-183", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-184", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-185", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-186", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-187", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-188", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-189", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-190", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-191", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-192", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-193", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-194", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-195", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-196", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-197", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-198", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-199", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-200", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-201", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-202", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-203", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-204", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-205", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-206", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-207", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-208", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-209", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-210", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-211", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-212", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-213", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-214", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-215", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-216", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-217", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-218", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-219", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-220", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-221", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-222", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-223", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-224", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-225", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-226", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-227", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-228", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-229", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-230", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-231", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-232", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-233", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-234", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-235", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-236", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-237", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-238", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-239", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-240", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-241", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-242", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-243", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-244", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-245", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-246", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-247", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-248", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-249", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-250", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-251", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-252", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-253", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-254", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-255", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-256", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-257", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-258", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-259", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-260", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-261", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-262", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-263", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-264", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-265", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-266", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-267", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-268", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-269", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-270", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-271", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-272", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-273", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-274", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-275", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-276", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-277", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-278", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-279", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-280", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-281", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-282", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-283", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-284", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-285", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-286", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-287", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-288", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-289", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-290", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-291", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-292", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-293", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-294", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-295", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-296", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-297", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-298", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-299", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-300", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-301", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-302", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-303", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-304", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-305", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-306", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-307", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-308", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-309", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-310", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-311", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-312", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-313", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-314", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-315", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-316", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-317", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-318", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-319", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-320", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-321", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-322", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-323", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-324", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-325", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-326", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-327", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-328", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-329", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-330", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-331", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-332", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-333", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-334", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-335", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-336", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-337", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-338", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-339", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-340", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-341", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-342", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-343", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-344", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-345", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-346", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-347", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-348", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-349", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-350", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-351", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-352", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-353", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-354", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-355", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-356", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-357", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-358", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-359", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-360", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-361", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-362", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-363", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-364", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-365", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-366", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-367", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-368", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-369", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-370", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-371", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-372", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-373", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-374", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-375", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-376", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-377", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-378", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-379", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-380", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-381", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-382", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-383", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-384", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-385", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-386", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-387", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-388", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-389", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-390", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-391", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-392", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-393", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-394", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-395", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-396", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-397", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-398", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-399", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-400", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-401", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-402", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-403", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-404", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-405", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-406", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-407", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-408", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-409", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-410", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-411", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-412", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-413", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-414", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-415", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-416", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-417", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-418", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-419", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-420", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-421", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-422", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-423", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-424", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-425", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-426", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-427", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-428", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-429", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-430", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-431", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-432", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-433", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-434", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-435", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-436", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-437", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-438", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-439", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-440", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-441", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-442", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-443", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-444", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-445", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-446", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-447", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-448", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-449", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-450", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-451", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-452", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-453", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-454", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-455", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-456", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-457", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-458", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-459", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-460", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-461", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-462", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-463", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-464", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-465", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-466", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-467", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-468", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-469", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-470", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-471", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-472", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-473", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-474", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-475", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-476", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-477", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-478", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-479", "ok": false, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-480", "ok": false, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-481", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-482", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-483", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-484", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-485", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-486", "ok": false, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-487", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-488", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-489", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-490", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-491", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-492", "ok": true, "pred": "C"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-493", "ok": true, "pred": "A"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-494", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-495", "ok": false, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-496", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-497", "ok": true, "pred": "B"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-498", "ok": true, "pred": "D"}
+{"task": "mmlu", "mode": "NOTHINK", "id": "mmlu-499", "ok": true, "pred": "C"}

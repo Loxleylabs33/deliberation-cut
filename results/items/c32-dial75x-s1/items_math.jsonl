@@ -1,0 +1,24 @@
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/930.json", "ok": true, "pred": "12", "thought": true, "tokens": 1694, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/956.json", "ok": true, "pred": "(6, 31, -1)", "thought": true, "tokens": 12931, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1849.json", "ok": true, "pred": "501", "thought": true, "tokens": 16054, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/183.json", "ok": true, "pred": "145", "thought": true, "tokens": 11332, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/345.json", "ok": true, "pred": "504", "thought": true, "tokens": 16483, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/128.json", "ok": true, "pred": "even", "thought": true, "tokens": 8305, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/753.json", "ok": true, "pred": "13", "thought": true, "tokens": 4294, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/156.json", "ok": true, "pred": "13", "thought": true, "tokens": 2290, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/964.json", "ok": true, "pred": "1", "thought": true, "tokens": 9446, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/297.json", "ok": true, "pred": "1736", "thought": true, "tokens": 8555, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/51.json", "ok": true, "pred": "\\dfrac{13}{18}", "thought": true, "tokens": 1941, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/378.json", "ok": true, "pred": "10", "thought": true, "tokens": 11420, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/1961.json", "ok": true, "pred": "\\frac{16}{27}", "thought": true, "tokens": 1035, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/986.json", "ok": true, "pred": "\\dfrac{16}{5}", "thought": true, "tokens": 6608, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/874.json", "ok": false, "pred": "154", "thought": true, "tokens": 11487, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/1287.json", "ok": true, "pred": "8", "thought": true, "tokens": 2732, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/947.json", "ok": true, "pred": "-\\dfrac{24}{25}", "thought": true, "tokens": 5661, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/96.json", "ok": true, "pred": "\\dfrac{7}{4}", "thought": true, "tokens": 3610, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/853.json", "ok": true, "pred": "12", "thought": true, "tokens": 3547, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/geometry/817.json", "ok": true, "pred": "\\dfrac{14}{3}", "thought": true, "tokens": 21294, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/914.json", "ok": true, "pred": "75", "thought": true, "tokens": 13563, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/158.json", "ok": true, "pred": "27648", "thought": true, "tokens": 8138, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/1252.json", "ok": true, "pred": "1", "thought": true, "tokens": 5496, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/intermediate_algebra/1350.json", "ok": true, "pred": "14", "thought": true, "tokens": 18124, "truncated": false, "closed": true}

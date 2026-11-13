@@ -1,0 +1,39 @@
+{
+ "label": "dial75-full",
+ "gguf": "models/dial75.gguf",
+ "results": {
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.9667,
+   "seconds": 667,
+   "thought_rate": 0.9833,
+   "closed_rate": 0.9833,
+   "median_tokens": 697,
+   "truncated": 5,
+   "cap": 4096
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.72,
+   "seconds": 729,
+   "thought_rate": 0.86,
+   "closed_rate": 0.86,
+   "median_tokens": 3422,
+   "truncated": 10,
+   "cap": 8192
+  },
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9222,
+   "seconds": 541,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 1753,
+   "truncated": 0,
+   "cap": 8192
+  }
+ }
+}

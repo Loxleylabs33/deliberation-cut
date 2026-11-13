@@ -1,0 +1,50 @@
+{
+ "label": "c32-dial0",
+ "gguf": "models/q80-neg.gguf",
+ "results": {
+  "mathhard": {
+   "mode": "THINK",
+   "n": 96,
+   "accuracy": 0.8021,
+   "seconds": 955,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 1144,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "bbhhard": {
+   "mode": "THINK",
+   "n": 200,
+   "accuracy": 0.785,
+   "seconds": 677,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 591,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.82,
+   "seconds": 409,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 637,
+   "truncated": 0,
+   "cap": 32768
+  },
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.9333,
+   "seconds": 226,
+   "thought_rate": 0.0,
+   "closed_rate": 0.0,
+   "median_tokens": 207,
+   "truncated": 0,
+   "cap": 32768
+  }
+ }
+}

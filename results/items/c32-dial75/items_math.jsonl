@@ -1,0 +1,15 @@
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/864.json", "ok": true, "pred": "52_8", "thought": true, "tokens": 2955, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/1055.json", "ok": true, "pred": "203", "thought": true, "tokens": 3150, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/46.json", "ok": true, "pred": "40_9", "thought": true, "tokens": 3828, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/521.json", "ok": true, "pred": "18", "thought": true, "tokens": 1129, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/2086.json", "ok": true, "pred": "40", "thought": true, "tokens": 1192, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1934.json", "ok": true, "pred": "13", "thought": true, "tokens": 1265, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/580.json", "ok": true, "pred": "120", "thought": true, "tokens": 3397, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2551.json", "ok": true, "pred": "10", "thought": true, "tokens": 1782, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/1842.json", "ok": true, "pred": "49", "thought": true, "tokens": 1950, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/counting_and_probability/216.json", "ok": true, "pred": "1940", "thought": true, "tokens": 1990, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/801.json", "ok": true, "pred": "55", "thought": true, "tokens": 15332, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/number_theory/686.json", "ok": true, "pred": "4", "thought": true, "tokens": 1413, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/prealgebra/65.json", "ok": true, "pred": "6", "thought": true, "tokens": 1610, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/precalculus/625.json", "ok": false, "pred": "\\begin{pmatrix} \\dfrac{16}{49} \\\\ \\dfrac{48}{49} \\\\ \\dfrac{24}{49} \\end{pmatrix}", "thought": true, "tokens": 2873, "truncated": false, "closed": true}
+{"task": "math", "mode": "THINK", "id": "math-test/algebra/2080.json", "ok": true, "pred": "14", "thought": true, "tokens": 1016, "truncated": false, "closed": true}

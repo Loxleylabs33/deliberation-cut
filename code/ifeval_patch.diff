@@ -1,0 +1,33 @@
+--- a/instructions_util.py
++++ b/instructions_util.py
+@@ -130,9 +130,17 @@
+   return num_words
+ 
+ 
++class _SimpleSentences:
++  """Patch used for the reported IFEval numbers: sentences are split on ., ! or ? followed by whitespace instead of
++  with NLTK's Punkt model, so scoring needs no downloaded NLTK data. Used only by the sentence-count checks."""
++
++  def tokenize(self, text):
++    return [s for s in re.split(r"(?<=[.!?])\s+", text.strip()) if s]
++
++
+ @functools.lru_cache(maxsize=None)
+ def _get_sentence_tokenizer():
+-  return nltk.data.load("nltk:tokenizers/punkt/english.pickle")
++  return _SimpleSentences()
+ 
+ 
+ def count_sentences(text):
+--- a/instructions.py
++++ b/instructions.py
+@@ -1531,7 +1531,8 @@
+   def check_following(self, value):
+     """Checks the frequency of words with all capital letters."""
+     # Hyphenated words will count as one word
+-    words = instructions_util.nltk.word_tokenize(value)
++    # patch used for the reported IFEval numbers: a regex word splitter instead of NLTK's word_tokenize
++    words = re.findall(r"[\w'-]+|[^\w\s]", value)
+     capital_words = [word for word in words if word.isupper()]
+ 
+     capital_words = len(capital_words)

@@ -1,0 +1,17 @@
+{
+ "label": "dial75-full-seed1",
+ "gguf": "models/dial75.gguf",
+ "results": {
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.9333,
+   "seconds": 558,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 1722,
+   "truncated": 0,
+   "cap": 8192
+  }
+ }
+}

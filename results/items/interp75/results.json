@@ -1,0 +1,51 @@
+{
+ "label": "interp75",
+ "gguf": "models/interp75.gguf",
+ "results": {
+  "gsm8k": {
+   "mode": "THINK",
+   "n": 300,
+   "accuracy": 0.9667,
+   "seconds": 818,
+   "thought_rate": 0.99,
+   "closed_rate": 0.99,
+   "median_tokens": 944,
+   "truncated": 6,
+   "cap": 4096
+  },
+  "math": {
+   "mode": "THINK",
+   "n": 50,
+   "accuracy": 0.72,
+   "seconds": 766,
+   "thought_rate": 0.8,
+   "closed_rate": 0.8,
+   "median_tokens": 3711,
+   "truncated": 12,
+   "cap": 8192
+  },
+  "bbh": {
+   "mode": "THINK",
+   "n": 90,
+   "accuracy": 0.8667,
+   "seconds": 631,
+   "thought_rate": 1.0,
+   "closed_rate": 1.0,
+   "median_tokens": 2017,
+   "truncated": 0,
+   "cap": 8192
+  },
+  "mmlu": {
+   "mode": "NOTHINK",
+   "n": 500,
+   "accuracy": 0.668,
+   "seconds": 22
+  },
+  "ifeval": {
+   "mode": "NOTHINK",
+   "n": 200,
+   "accuracy": 0.73,
+   "seconds": 405
+  }
+ }
+}
