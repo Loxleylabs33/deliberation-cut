@@ -1,7 +1,7 @@
 
 # Qwen3-4B-Thinking-Concise
 
-**Where the weights are.** The model (bf16 GGUF, 7.5 GB), the removed piece (2.17 GB) and the router weights are on Hugging Face at https://huggingface.co/LoxleyLabs/Qwen3-4B-Thinking-Concise, together with everything in this repository. This repository holds the code, the per-item results, the safety check and the paper, so the method can be read and rerun without downloading the weights. `SHA256SUMS` is the manifest of the full package as published there; the six binary files it lists are not in this repository. The paper is also at https://loxleylabs.net/research/separating-skill-from-habit.
+**Where the weights are.** The model (bf16 GGUF, 7.5 GB, plus Q8_0 and Q4_K_M files), the removed piece (2.17 GB) and the router weights are on Hugging Face at https://huggingface.co/LoxleyLabs/Qwen3-4B-Thinking-Concise, together with everything in this repository. This repository holds the code, the per-item results, the safety check and the paper, so the method can be read and rerun without downloading the weights. `SHA256SUMS` is the manifest of the full package as published there; the binary files it lists are not in this repository. The paper is also at https://loxleylabs.net/research/separating-skill-from-habit.
 
 *Qwen3-4B-Thinking-2507 minus the q80 piece*
 
@@ -68,6 +68,8 @@ Full tables, with the prompts, the test sets and the standard errors, are in `re
 | Path | What it is | Size |
 |---|---|---|
 | `model/Qwen3-4B-Thinking-Concise-bf16.gguf` | D, bf16 GGUF, 4,022,468,096 parameters | 8.05 GB |
+| `Qwen3-4B-Thinking-Concise-Q8_0.gguf` | D quantised to Q8_0 with llama.cpp build 11669's `llama-quantize`, from the bf16 file above, added 13 November 2026 | 4.28 GB |
+| `Qwen3-4B-Thinking-Concise-Q4_K_M.gguf` | D quantised to Q4_K_M the same way, no importance matrix | 2.50 GB |
 | `piece/P_q80.safetensors` | the removed piece P as bf16 low-rank factors (252 matrices) and 47 whole tensors | 2.17 GB |
 | `piece/` scripts | `apply_piece.py` (Thinking + (beta - 1) P), `compare_logits.py` | |
 | `router/` | two routers (one per training pool), question vectors, labels, `route_question.py`, scoring scripts | 17 MB |
@@ -77,7 +79,7 @@ Full tables, with the prompts, the test sets and the standard errors, are in `re
 | `PAPER.md` | the detailed write-up of what we found | |
 | `SHA256SUMS`, `LICENSE`, `NOTICE` | checksums of every file, the Apache-2.0 text, attribution | |
 
-`SHA256SUMS` lists every file; the two large ones start `492b0605e7a80616` (the GGUF) and `64798af8568023ce` (the piece).
+`SHA256SUMS` lists every file; the large ones start `492b0605e7a80616` (the bf16 GGUF), `64798af8568023ce` (the piece), `c2191c7a597f214a` (Q8_0) and `76eeb79132a489ce` (Q4_K_M).
 The GGUF is the file we evaluated, byte for byte. We ran it as `q80-neg.gguf` and gave it its release name afterwards;
 renaming a file does not change its contents, so the SHA-256 is the same before and after:
 `492b0605e7a80616bb9434fe8954a9d549bb7cd7eccc3ddba8689f3ea061d432`. Its internal `general.name` field reads "Q80 Neg Hf", a
@@ -108,6 +110,22 @@ block, `<think>\n\n</think>\n\n`, appended (MMLU, IFEval). D answered the first 
 block on any of the 300 + 50 + 90 scored replies of the main scorecard or the 1,940 replies of the refusal check, 2,380
 in all. The long-budget and repeat runs in `results/items/` add 1,172 more replies, also with none. The MMLU and IFEval
 replies are not counted, because their prompt already contains an empty think block.
+
+### Quantised files
+
+Two quantised copies sit at the top of the repository, made on 13 November 2026 with llama.cpp build 11669's `llama-quantize`
+from the evaluated bf16 file, with no importance matrix: `Qwen3-4B-Thinking-Concise-Q8_0.gguf` (4.28 GB, 8.50 bits per weight) and
+`Qwen3-4B-Thinking-Concise-Q4_K_M.gguf` (2.50 GB, 4.95 bits per weight). None of the tables in this card or the paper were run on them. Each
+was loaded once on a CPU and given the pens question as a raw prompt; both answered directly with no closed think block, the Q8_0
+reaching 8 dollars within 80 tokens and the Q4_K_M cut off by that cap on its way there. Treat them as untested beyond that.
+
+```
+llama-server -m Qwen3-4B-Thinking-Concise-Q4_K_M.gguf -c 16384 -ngl 99 \
+    --temp 0.6 --top-p 0.95 --top-k 20 --reasoning-format none
+```
+
+Ollama reads GGUF files from Hugging Face repositories, so `ollama run hf.co/LoxleyLabs/Qwen3-4B-Thinking-Concise:Q4_K_M` should pick the Q4_K_M
+file; we did not test Ollama, and the open `<think>` line in the embedded template applies there too.
 
 ## How the piece was chosen, in one paragraph
 
@@ -277,7 +295,7 @@ reveals nothing that is not already derivable.
   rows in `results/long_budget_H5.md`, whose weights are not shipped; and the resampled and replayed figures in
   `results/refusal_check.md`, whose replies and measuring scripts are not shipped. The refusal check itself ships as
   counts, and a rerun gives similar, not identical, numbers.
-- Everything here was measured on bf16 weights through llama.cpp. Quantised variants were not tested.
+- Everything here was measured on bf16 weights through llama.cpp. The two quantised files were each loaded once and answered one question; none of the tables were run on them.
 
 ## Independent testing is welcome
 
