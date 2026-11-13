@@ -5,7 +5,7 @@
 
 *Qwen3-4B-Thinking-2507 minus the q80 piece*
 
-Douglas Lund, Loxley Labs. 8 November 2026. Produced with Claude Code. The paper is in [PAPER.md](PAPER.md) and at https://loxleylabs.net/research/separating-skill-from-habit ([PDF](https://loxleylabs.net/separating-skill-from-habit-2026-11-08.pdf)).
+Douglas Lund, Loxley Labs. 8 November 2026. Produced with Claude Code. The paper is in [PAPER.md](PAPER.md) and at https://loxleylabs.net/research/separating-skill-from-habit ([PDF](https://loxleylabs.net/separating-skill-from-habit-2026-11-08.pdf)). The code, results, safety check and paper are also on GitHub at https://github.com/Loxleylabs33/deliberation-cut.
 
 Qwen3-4B-Thinking-Concise is a 4.0-billion-parameter language model made by taking Qwen/Qwen3-4B-Thinking-2507 and
 subtracting the part of its weights that, by a first-order score, does most to make it deliberate. In the 2,380 replies
